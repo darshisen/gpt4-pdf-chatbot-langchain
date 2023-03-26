@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gpt4pdf-dev-213218-authRole",
+      "UnauthRoleArn": "arn:aws:iam::032010122995:role/amplify-gpt4pdf-dev-213218-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::032010122995:role/amplify-gpt4pdf-dev-213218-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gpt4pdf-dev-213218-deployment",
+      "UnauthRoleName": "amplify-gpt4pdf-dev-213218-unauthRole",
+      "StackName": "amplify-gpt4pdf-dev-213218",
+      "StackId": "arn:aws:cloudformation:us-east-1:032010122995:stack/amplify-gpt4pdf-dev-213218/3228a600-cb8f-11ed-9449-0a45247de67b",
+      "AmplifyAppId": "dmaaaium8fob7"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dmaaaium8fob7",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
